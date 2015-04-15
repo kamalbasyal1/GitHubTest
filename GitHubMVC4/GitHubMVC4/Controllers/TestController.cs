@@ -13,6 +13,7 @@ namespace GitHubMVC4.Controllers
 
         public ActionResult Index()
         {
+            string test; 
             return View();
         }
 
